@@ -2,7 +2,7 @@ import React from "react";
 import { ReactDOM, useState } from "react";
 
 import { Playlist } from "./Playlist";
-import data from "./../data";
+import data from "../useData/data";
 import ReactPlayer from "react-player";
 import pauseBtn from "./../images/pause.png";
 import playBtn from "./../images/playBtn.png";

@@ -1,6 +1,6 @@
 import React from "react";
 import ReactPlayer from "react-player";
-import data from "./../data";
+import data from "../useData/data";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Container } from "react-bootstrap";
 
